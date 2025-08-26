@@ -1,4 +1,5 @@
 codeAlpha - portfolio
+
 Personal Portfolio Website
 This project is a personal portfolio website designed to showcase my skills, projects, and experiences.
 It was built using HTML, CSS, and JavaScript to create an interactive and visually appealing platform
